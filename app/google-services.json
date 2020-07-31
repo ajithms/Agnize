@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "882098053391",
+    "firebase_url": "https://agnize-final.firebaseio.com",
+    "project_id": "agnize-final",
+    "storage_bucket": "agnize-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882098053391:android:07930da1d9ac94c4679e7a",
+        "android_client_info": {
+          "package_name": "com.example.agnize_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882098053391-tk5dltinf0mcqbgdp5c88cfdmnod6hqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAu22WpyeswzYciKaUPrQ6eriY5UiDOZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882098053391-tk5dltinf0mcqbgdp5c88cfdmnod6hqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
